@@ -1,3 +1,5 @@
 print("Hello python")
 System.out.println("Hellow java")
 fmt.Println("Hello Golang")
+echo "Hello bash"
+
